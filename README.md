@@ -20,8 +20,8 @@ It allows users to generate strong and customizable passwords with a clean and m
 - Interactive copy icon for better user experience.
 
 ## 🛠️ Tech Stack
-- **HTML5** – structure  
-- **CSS3** – styling and layout  
+- **HTML** – structure  
+- **CSS** – styling and layout  
 - **JavaScript (Vanilla JS)** – password logic and interactivity  
 
 ## 🚀 How to Use
