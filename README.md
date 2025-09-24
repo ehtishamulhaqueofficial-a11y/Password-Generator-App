@@ -1,3 +1,7 @@
+PROJECT  LIVE  LINK
+
+https://ehtishamulhaqueofficial-a11y.github.io/Password-Generator-App/
+
 # 🔐 Password Generator App
 
 This is a beginner-friendly password generator project created using HTML, CSS, and JavaScript.  
